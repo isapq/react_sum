@@ -3,7 +3,7 @@ export const Sum = ({ a = 0, b = 0 }) => {
 
   return (
     <p>
-      Sum of ${a} and ${b} is ${value}
+      Sum of {a} and {b} is {value}
     </p>
   );
 };
